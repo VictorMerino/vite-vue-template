@@ -8,6 +8,7 @@
     "test": "vitest"
   },
   "dependencies": {
+    "@pinia/testing": "^0.0.9",
     "vue": "^3.2.25"
   },
   "devDependencies": {

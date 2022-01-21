@@ -8,7 +8,6 @@ const count = ref(0)
 
 const store = useExampleStore()
 const example = store.sampleVariable
-
 </script>
 
 <template>

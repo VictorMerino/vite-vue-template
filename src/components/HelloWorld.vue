@@ -1,9 +1,14 @@
 <script setup lang="ts">
 import { ref } from 'vue'
+import { useExampleStore } from '@/stores/example'
 
 defineProps<{ msg: string }>()
 
 const count = ref(0)
+
+const store = useExampleStore()
+const example = store.sampleVariable
+
 </script>
 
 <template>
@@ -31,6 +36,7 @@ const count = ref(0)
     Edit
     <code>components/HelloWorld.vue</code> to test hot module replacement.
   </p>
+  <p data-test-id="example">Sample variable from store: {{ example }}</p>
 </template>
 
 <style scoped>

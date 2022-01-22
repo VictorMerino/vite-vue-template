@@ -1,12 +1,12 @@
 # Vue 3 + Typescript + Vite
 
 This template includes:
-- Vite
-- Vue3 with TS
-- Pinia
-- Eslint + Prettier support (with auto-lint on save)
-- Vue-Router
-- Vitest (with Vue-Test-Utils)
+* Vite
+* Vue3 with TS
+* Pinia
+* Eslint + Prettier support (with auto-lint on save)
+* Vue-Router
+* Vitest (with Vue-Test-Utils)
 
 ## Recommended IDE Setup
 

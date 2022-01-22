@@ -1,6 +1,6 @@
 # Vue 3 + Typescript + Vite
 
-This template includes:
+## This template includes:
 * Vite
 * Vue3 with TS
 * Pinia

@@ -4,9 +4,9 @@
 * Vite
 * Vue3 with TS
 * Pinia
-* Eslint + Prettier support (with auto-lint on save)
+* Eslint + Prettier support (with auto-lint on save): vue 3 essential + vue standard + TypeScript recommended setup
 * Vue-Router
-* Vitest (with Vue-Test-Utils)
+* Vitest (with Vue-Test-Utils and JSDOM)
 
 ## Recommended IDE Setup
 
